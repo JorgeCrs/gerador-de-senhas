@@ -33,8 +33,9 @@ Nesta versão, eu fiz algumas melhorias visuais e funcionais para deixar o proje
 ---
 
 ## 🚀 Como executar
-1. Clone este repositório ou faça o download dos arquivos:
-   ```bash
+1. faça o download dos arquivos:
+
   
+
 
 
